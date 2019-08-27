@@ -2,7 +2,7 @@
 This project generates a Wu-Tang based name depending on what the user answers for questions on a short survey.
 
 
-![alt tag](images/wu-tang.png)
+![alt tag](https://drive.google.com/uc?export=view&id=1UErdP8LYsR8_pbYGokT2qHE_fVicYoq2)
 
 ## How It's Made:
 
